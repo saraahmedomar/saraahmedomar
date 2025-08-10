@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @saraahmedomar
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Sara 👋
 
-<!---
-saraahmedomar/saraahmedomar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Data Analyst and Computer Science student passionate about using **data and AI to solve real-world problems** — especially in climate, environment, and renewable energy.
+
+## ✨ About Me
+- 🎓 Major: Computers & Artificial Intelligence  
+- 🔬 Interests:  Data Analysis, Predictive Modeling, Interactive Dashboards  
+- 💡 Technical Skills: Python, Pandas, NumPy, Scikit-learn, SQL, Git,  C++
+
+## 🛠️ Tools & Skills
+- Data Analysis: `Pandas`, `NumPy`, `Matplotlib`  
+- Machine Learning: `Scikit-learn`, basic `TensorFlow`  
+- Databases: `SQL`  
+- Tools: `Git`, `VS Code`, GitHub
+
+## 📫 Contact
+- Email: saraahmedomar412@gmail.com
+- LinkedIn: www.linkedin.com/in/sara-ahmed-omar-a051442b7
