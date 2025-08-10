@@ -16,3 +16,4 @@ I'm a Data Analyst and Computer Science student passionate about using **data an
 ## 📫 Contact
 - Email: saraahmedomar412@gmail.com
 - LinkedIn: www.linkedin.com/in/sara-ahmed-omar-a051442b7
+- cv:https://drive.google.com/file/d/1ua7fkn8yxQFvcDXKVPS3p031Dtq7UQo_/view?usp=sharing
